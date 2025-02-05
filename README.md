@@ -1,5 +1,9 @@
 <div align="center">
-  <img height="200" width="full" src="https://github.com/farihaa1/farihaa1/blob/main/farihaa1-github-profile.mp4"  />
+  <video width="full" height="240" autoplay>
+  <source src="https://github.com/farihaa1/farihaa1/blob/main/farihaa1-github-profile.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 </div>
 
 ###
