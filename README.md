@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h2>
+<h1 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h1>
 
 ###
 
@@ -74,7 +74,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=farihaa1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farihaa1&theme=highcontrast&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
-
 ###
