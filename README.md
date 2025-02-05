@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="full" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
+  <img height="200" width="full" src="https://github.com/farihaa1/farihaa1/blob/main/farihaa1-github-profile.mp4"  />
 </div>
 
 ###
