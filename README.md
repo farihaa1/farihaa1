@@ -1,7 +1,5 @@
 <div align="center">
-  <video width="full" height="240" autoplay>
-  <source src="https://github.com/farihaa1/farihaa1/blob/main/farihaa1-github-profile.mp4" type="video/mp4">
-Your browser does not support the video tag.
+  <img height="220" width="full src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg" />
 </video>
 
 </div>
