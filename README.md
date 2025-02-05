@@ -22,7 +22,7 @@
 
 ###
 
-### <h1 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h1> <p>👩‍💻A Passionate Frontend Developer👩‍💻</p>
+### <h1 align="center">Hi There👋🤓! <br>I am Johra Khatun Fariha<br>A Passionate Frontend Developer👩‍💻<br></h1>
 
 ###
 
