@@ -37,7 +37,8 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -54,7 +55,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  </div>
+ <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -65,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+ </div>
 </div>
 
 ###
@@ -74,5 +78,5 @@
 ###
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farihaa1&theme=highcontrast&card_width=500&card_height=220" alt="GitHub Streak" /></a>
+ <img src="https://streak-stats.demolab.com?user=farihaa1&theme=highcontrast&card_width=500&card_height=220" alt="GitHub Streak" />
 </div>
