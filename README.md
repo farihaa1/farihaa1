@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="220" width="full src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg" />
-</video>
+  <img height="220" width="full" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
+</div>
 
 </div>
 
