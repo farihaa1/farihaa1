@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="full" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
+  <img height="150" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
 </div>
 
 ###
@@ -20,15 +20,12 @@
 </div>
 
 ###
-<div align="center>
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Fariha%2C+a+Frontend+Developer+%E2%9C%A9" width="100%" />
-<br><br>
-</div>
 
+<h2 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h2>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
