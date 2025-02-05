@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
+  <img height="200" width="full" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h2>
+<h1 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h1>
 
 ###
 
