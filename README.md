@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
+  <img height="200" width="full" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
 </div>
 
 ###
@@ -74,6 +74,6 @@
 ###
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farihaa1&theme=highcontrast&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=farihaa1&theme=highcontrast&card_width=500&card_height=200)](https://git.io/streak-stats)
 </div>
 ###
