@@ -22,15 +22,15 @@
 
 ###
 
-### <h1 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h1>
+### <h1 align="center">Hi There! <br>I am Johra Khatun Fariha<br>👋🤓</h1> <p>👩‍💻A Passionate Frontend Developer👩‍💻</p>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
 ###
 
-<p align="left">I'm currently a Bachelor of Science in Mathematics student with a passion for web development, focusing on front-end technologies like React.🧑‍🎓<br><br>Proficient in JavaScript, HTML, and CSS. Currently deepening my expertise in React and exploring Next.js👨‍💻 to build dynamic and efficient web applications.<br><br>When I'm not coding, I enjoy watching movies; currently revisiting the Harry Potter series.</p>
+<p  align="left">I'm currently a Bachelor of Science in Mathematics student with a passion for web development, focusing on front-end technologies like React.🧑‍🎓<br><br>Proficient in JavaScript, HTML, and CSS. Currently deepening my expertise in React and exploring Next.js👨‍💻 to build dynamic and efficient web applications.<br><br>When I'm not coding, I enjoy watching movies; currently revisiting the Harry Potter series.</p>
 
 ###
 
