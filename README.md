@@ -6,11 +6,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/johra-khatun-fariha-16b500312/" target="_blank">
+  <a href="https://www.linkedin.com/in/johra-khatun-fariha/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/jkfariha14" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://johra-khatun-farihas-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"  />
   </a>
 </div>
 
