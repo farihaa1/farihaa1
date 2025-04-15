@@ -26,7 +26,7 @@
 
 ###
 
-### <h1 align="center">Hi There👋🤓! <br>I am Johra Khatun Fariha<br>A Frontend Developer👩‍💻<br></h1>
+### <h1 align="center">Hi There👋🤓! <br>I am Johra Khatun Fariha<br>A MERN Stack Developer👩‍💻<br></h1>
 
 ###
 
@@ -34,7 +34,35 @@
 
 ###
 
-<p  align="left">I'm currently a Bachelor of Science in Mathematics student with a passion for web development, focusing on front-end technologies like React.🧑‍🎓<br><br>Proficient in JavaScript, HTML, and CSS. Currently deepening my expertise in React and exploring Next.js👨‍💻 to build dynamic and efficient web applications.<br><br>When I'm not coding, I enjoy watching movies; currently revisiting the Harry Potter series.</p>
+<p  align="left">Hey there! I'm a passionate Web Developer from Cumilla, Chittagong, Bangladesh 🇧🇩. Currently diving deep into full-stack development with the **MERN stack** and enrolled in **Level 2 of the Programming Hero Web Dev course**.
+
+I love building real-world projects, collaborating with teams, and solving problems with clean, efficient code. From vanilla HTML to advanced React, I’m constantly leveling up.
+</p>
+
+### 💻 Tech Stack
+
+- 🧠 Frontend: React.js, Next.js, TailwindCSS, ShadcnUI, Tanstack Query
+- 🔧 Backend: Node.js, Express.js, MongoDB, Mongoose
+- 🔐 Auth: Firebase Auth, JWT, Clerk
+- ☁️ Deployment: Vercel, Firebase, Render
+- 🔄 State Management: Redux Toolkit
+- 🛠️ Tools: VSCode, GitHub, Figma, Postman
+
+### 📈 Goals for 2025
+
+- Become a job-ready Full Stack Developer  
+- Contribute to open-source projects  
+- Land my first dev job or internship  
+- Master TypeScript and GraphQL  
+- Build projects that solve real problems
+
+### 📬 Let’s Connect!
+
+Feel free to DM me or collaborate on something awesome:  
+[🔗 LinkedIn](https://www.linkedin.com/in/johra-khatun-fariha/)  
+📫 Email: johrafariha.dev@gmail.com  
+[🌐Portfolio](https://johra-khatun-farihas-portfolio.netlify.app/)
+
 
 ###
 
