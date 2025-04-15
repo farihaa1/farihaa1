@@ -36,7 +36,10 @@
 
 <p  align="left">Hey there! I'm a passionate Web Developer from Cumilla, Chittagong, Bangladesh 🇧🇩. Currently diving deep into full-stack development with the **MERN stack** and enrolled in **Level 2 of the Programming Hero Web Dev course**.
 
-I love building real-world projects, collaborating with teams, and solving problems with clean, efficient code. From vanilla HTML to advanced React, I’m constantly leveling up.
+Currently, I’m working on a team project called **QuizGenius** — an AI-powered quiz generation platform.
+As a team, we follow a structured workflow with two daily scrums — a morning scrum to plan our day and an evening scrum to review progress. Every week, we also give a presentation to update our mentors on what we've built and accomplished so far.
+
+love building real-world projects, collaborating with teams, and solving problems with clean, efficient code. From vanilla HTML to advanced React, I’m constantly leveling up.
 </p>
 
 ### 💻 Tech Stack
