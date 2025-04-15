@@ -63,7 +63,7 @@ love building real-world projects, collaborating with teams, and solving problem
 
 Feel free to DM me or collaborate on something awesome:  
 [🔗 LinkedIn](https://www.linkedin.com/in/johra-khatun-fariha/)  
-📫 Email: johrafariha.dev@gmail.com  
+📫 Email: farihaa1403@gmail.com  
 [🌐Portfolio](https://johra-khatun-farihas-portfolio.netlify.app/)
 
 
