@@ -26,7 +26,7 @@
 
 ###
 
-### <h1 align="center">Hi There👋🤓! <br>I am Johra Khatun Fariha<br>A MERN Stack Developer👩‍💻<br></h1>
+### <h1 align="center">Hi There👋🤓! <br>I am Johra Khatun Fariha <br>A MERN Stack Developer👩‍💻<br></h1>
 
 ###
 
