@@ -47,7 +47,7 @@ love building real-world projects, collaborating with teams, and solving problem
 - 🧠 Frontend: React.js, Next.js, TailwindCSS, ShadcnUI, Tanstack Query
 - 🔧 Backend: Node.js, Express.js, MongoDB, Mongoose,Typescript, javascript 
 - 🔐 Auth: Firebase Auth, JWT, Clerk
-- ☁️ Deployment: Vercel, Firebase, Render
+- ☁️ Deployment: Vercel, Firebase, Render,Netlify
 - 🔄 State Management: Redux Toolkit
 - 🛠️ Tools: VSCode, GitHub, Figma, Postman
 
