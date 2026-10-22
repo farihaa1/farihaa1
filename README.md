@@ -59,7 +59,7 @@ love building real-world projects, collaborating with teams, and solving problem
 - Master TypeScript and GraphQL  
 - Build projects that solve real problems
 
-### 📬 Let’s Connect!!!!
+### 📬 Let’s Connect!!!!!!!
 
 Feel free to DM me or collaborate on something awesome:
 📫 Email: farihaa1403@gmail.com  
