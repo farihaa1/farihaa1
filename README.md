@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
   <img height="230" width="full" src="https://i.ibb.co.com/20HyqMry/profile-banner.jpg"  />
 </div>
 
@@ -39,7 +39,7 @@
 Currently, I’m working on a team project called **QuizGenius** — an AI-powered quiz generation platform.
 As a team, we follow a structured workflow with two daily scrums — a morning scrum to plan our day and an evening scrum to review progress. Every week, we also give a presentation to update our mentors on what we've built and accomplished so far.
 
-love building real-world projects, collaborating with teams, and solving problems with clean, efficient code. From vanilla HTML to advanced React, NextJs I’m constantly leveling up.
+I love building real-world projects, collaborating with teams, and solving problems with clean, efficient code. From vanilla HTML to advanced React, NextJs I’m constantly leveling up.
 </p>
 
 ### 💻 Tech Stack
